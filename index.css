@@ -1,0 +1,13 @@
+.page {
+  background-color: rgb(85, 84, 84);
+}
+
+.form__content {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+}
+
+.button {
+  width: 240px;
+}
